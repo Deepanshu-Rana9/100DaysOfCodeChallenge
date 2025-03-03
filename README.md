@@ -50,7 +50,7 @@ Applies all learned concepts to real-world datasets, performing in-depth EDA on 
    ```bash
    git clone https://github.com/your-username/100-Days-of-Code-Data-Science.git
    cd 100-Days-of-Code-Data-Science
-2.nstall dependencies:
+2.install dependencies:
 pip install -r requirements.txt
 3.Explore the notebooks in the notebooks/ directory.
 
