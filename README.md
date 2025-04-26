@@ -1,6 +1,6 @@
  🚀 100 Days of Code: Data Science Foundations  
 
-Welcome to my **100 Days of Code** challenge! This repository documents my daily progress as I strengthen my **Python for Data Science** skills, focusing on **Python basics, essential libraries (NumPy, Pandas, Matplotlib, Seaborn), and Exploratory Data Analysis (EDA)**—without diving into Machine Learning or Deep Learning.  
+Welcome to my **100 Days of Code** challenge! This repository documents my daily progress as I strengthen my **Python for Data Science** skills, focusing on **Python basics, essential libraries (NumPy, Pandas, Matplotlib, Seaborn, sciPy), and Exploratory Data Analysis (EDA)**—without diving into Machine Learning or Deep Learning.  
 
 ---
 
@@ -18,8 +18,8 @@ Introduces data handling with Pandas, including DataFrame operations, data clean
  ✅ **Week 7-8: Data Visualization (Days 43-56)**  
 Explores data visualization using Matplotlib and Seaborn, covering different types of plots, customization, and aesthetic enhancements.  
 
- ✅ **Week 9-10: Exploratory Data Analysis (EDA) (Days 57-70)**  
-Dives into techniques for understanding data, identifying patterns, handling missing values, detecting outliers, and feature scaling.  
+ ✅ **Week 9-10: SciPy (Days 57-70)**
+Focuses on scientific computing with SciPy, including modules for optimization, linear algebra, integration, interpolation, and statistical analysis.
 
  ✅ **Week 11-12: Advanced EDA & Feature Engineering (Days 71-84)**  
 Covers more advanced EDA techniques, feature engineering strategies, handling categorical data, and working with time series data.  
